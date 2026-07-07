@@ -37,7 +37,7 @@ Modern ve kullanıcı dostu bir görsel düzenleme uygulaması. Fotoğraflara fa
 ## 1. Projeyi İndirin
 
 ```bash
-git clone https://github.com/KULLANICI_ADINIZ/gorsel-isleyici.git
+git clone https://github.com/CodingPro4567/gorsel-isleyici.git
 ```
 
 veya ZIP olarak indirip çıkartın.
